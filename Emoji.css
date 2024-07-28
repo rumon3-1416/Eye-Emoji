@@ -1,0 +1,14 @@
+body {
+  background-color: lightgray;
+}
+.c-div {
+  text-align: center;
+}
+.canvas {
+  border: 2px solid black;
+  border-radius: 0.5rem;
+  background-color: whitesmoke;
+}
+.p {
+  margin-top: 0;
+}
